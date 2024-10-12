@@ -1,0 +1,7 @@
+completed_hw= 12
+hours_number= 1.5
+course_name="python"
+time_for_one_task=(hours_number/completed_hw)
+print("курс:",course_name,", всего задач:",completed_hw,", затрачено часов:",hours_number,", среднее время выполнения одного задания:",time_for_one_task,"часа")
+
+
